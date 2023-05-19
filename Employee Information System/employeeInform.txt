@@ -1,0 +1,10 @@
+ 
+ ID : 2222
+ NAME : BONSA
+ FATHER NAME : GUDDATA
+ SEX  : M
+ DEPARTEMENT : Software
+ AGE : 23
+ PHONE NUMBER : 0978563412
+ SALAR : 10789.3
+***********************
